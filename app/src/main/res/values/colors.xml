@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#3F51B5</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#303F9F</color>
+    
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#FF4081</color>
+    
+    <!-- Quantity pane color for quantity up to 1m -->
+    <color name="quantityTo1m">#4A7BA7</color>
+    
+    <!-- Quantity pane color for quantity up to 100k -->
+    <color name="quantityTo100k">#04B4B3</color>
+    
+    <!-- Quantity pane color for quantity up to 10k -->
+    <color name="quantityTo10k">#10CAC9</color>
+    
+    <!-- Quantity pane color for quantity up to 1k -->
+    <color name="quantityTo1k">#F5A623</color>
+    
+    <!-- Quantity pane color for quantity up to 100 -->
+    <color name="quantityTo100">#FF7D50</color>
+    
+    <!-- Quantity pane color for quantity up to 10 -->
+    <color name="quantityTo10">#E13A20</color>
+    
+</resources>

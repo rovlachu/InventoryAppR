@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    
+    <string name="app_bar_title_add_product">Add New Product</string>
+    <string name="app_bar_title_edit_product">Edit Product</string>
+    <string name="app_bar_title_product_details">Product Details</string>
+    <string name="app_bar_title_product_list">Inventory</string>
+    
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_all_dialog_msg">This action will delete every product in the database. \nDelete all the products?</string>
+    
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+    
+    <!-- Dialog button text for the option to keep editing the current product [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+    
+    <string name="hint_product_name">Product Name</string>
+    <string name="hint_price">Price</string>
+    <string name="hint_supplier_phone_number">Supplier Phone Number</string>
+    <string name="hint_supplier_name">Supplier Name</string>
+    <string name="hint_quantity">Quantity</string>
+    
+    <string name="btn_order_text">Order</string>
+    <string name="btn_decrease_text">Minus one</string>
+    <string name="btn_increase_text">Plus one</string>
+    <string name="btn_sale">Sale</string>
+    
+    <string name="list_empty_view_text">Inventory is empty now.  \nClick on Plus Button to start with \nadding a new product :))</string>
+    
+    <string name="placeholder_long_product_name">Long product name placeholder that should wrap for more than one line</string>
+    
+    <string name="menu_option_save">Save</string>
+    <string name="menu_option_edit">Edit</string>
+    <string name="menu_option_delete">Delete</string>
+    <string name="menu_option_add_dummy_product">Add dummy products</string>
+    <string name="menu_option_delete_all_products">Delete all products</string>
+    
+    <string name="toast_details_deletion_success">Product deleted</string>
+    <string name="toast_details_deletion_failed">Deletion failed</string>
+    <string name="toast_details_deletion_error">Error deleting product</string>
+    
+    <string name="toast_sale_success">Product sold</string>
+    <string name="toast_no_products_for_sale">You ran out of this product</string>
+    <string name="toast_sale_failed">Sale failed</string>
+    <string name="toast_sale_error">Error selling product</string>
+    
+    <string name="toast_add_product_failed">Product saving failed</string>
+    <string name="toast_add_product_success">Product saved</string>
+    
+    <string name="toast_editor_update_success">Product updated</string>
+    <string name="toast_editor_update_failed">Update failed</string>
+    <string name="toast_editor_error_updating">Error updating product</string>
+    <string name="edittext_floating_error_label">Required</string>
+    
+    <string name="toast_invalid_quantity">Invalid quantity value</string>
+    <string name="toast_invalid_price">Invalid price value</string>
+    <string name="toast_no_blank_fields">No blank fields are required</string>
+    
+    <string name="toast_error_getting_product_info">Error getting the product info</string>
+    <string name="toast_error_no_such_product">No such product in the database</string>
+</resources>
